@@ -64,6 +64,43 @@ A comprehensive collection of Python programming exercises and tutorials structu
   - Sorting student marks
   - List operations and tuple counting
 
+### Chapter 5: Advanced Data Structures - Dictionaries & Sets
+
+- **05_dict.py** - Introduction to Python dictionaries
+  - Key-value pairs and basic operations
+  - Dictionary mutability and indexing
+  - Adding, modifying, and deleting elements
+  - Dictionary methods (keys, values, items)
+- **05_dict_methods.py** - Comprehensive dictionary methods
+  - clear(), copy(), fromkeys()
+  - get(), items(), keys(), values()
+  - pop(), popitem(), setdefault(), update()
+- **05_sets.py** - Introduction to Python sets
+  - Unordered collections with unique elements
+  - Set creation and properties
+  - Mixed data types and empty sets
+- **05_set_methods.py** - Set operations and methods
+  - Adding and removing elements
+  - Set length and clearing
+- **05_set_union_intersection.py** - Advanced set operations
+  - Union, intersection, difference
+  - Symmetric difference operations
+- **05_practice.py** - Practice exercises for Chapter 5
+  - Urdu-English dictionary translator
+  - Unique number collection with sets
+  - Friend favorite languages dictionary
+
+### Chapter 6: Control Flow - Conditional Statements
+
+- **06_conditionals.py** - Comprehensive conditional programming
+  - Basic if-else statements
+  - If-elif-else chains
+  - Multiple independent if vs if-elif-else
+  - Nested conditional statements
+  - Complex conditions with logical operators
+  - Ternary operator (conditional expressions)
+  - Practical examples (grade calculator, BMI calculator, traffic light system)
+
 ## 🎯 Learning Objectives
 
 This course is designed to take you from absolute beginner to proficient Python programmer through:
@@ -99,13 +136,15 @@ python 01_first.py
 
 ## 🏗️ Course Progression
 
-| Chapter    | Topics Covered                             | Status            |
-| ---------- | ------------------------------------------ | ----------------- |
-| Chapter 1  | Basic syntax, comments, first program      | ✅ Complete       |
-| Chapter 2  | Variables, data types, input, operators    | ✅ Complete       |
-| Chapter 3  | String manipulation, f-strings, formatting | ✅ Complete       |
-| Chapter 4  | Lists, tuples, data structures             | ✅ Complete       |
-| Chapter 5+ | Coming soon...                             | 🚧 In Development |
+| Chapter    | Topics Covered                               | Status            |
+| ---------- | -------------------------------------------- | ----------------- |
+| Chapter 1  | Basic syntax, comments, first program        | ✅ Complete       |
+| Chapter 2  | Variables, data types, input, operators      | ✅ Complete       |
+| Chapter 3  | String manipulation, f-strings, formatting   | ✅ Complete       |
+| Chapter 4  | Lists, tuples, data structures               | ✅ Complete       |
+| Chapter 5  | Dictionaries, sets, advanced data structures | ✅ Complete       |
+| Chapter 6  | Conditional statements, control flow         | ✅ Complete       |
+| Chapter 7+ | Coming soon...                               | 🚧 In Development |
 
 ## 💡 Tips for Success
 
@@ -141,3 +180,4 @@ For questions or clarifications about the exercises:
 **Happy Coding!** 🐍
 
 _Last updated: January 2026_
+JAC2459755
