@@ -21,6 +21,20 @@ A comprehensive collection of Python programming exercises and tutorials structu
 - **02_Types.py** - Type system exploration
 - **02_Input.py** - User input handling
 - **02_Operators.py** - Mathematical and logical operators
+  - Arithmetic operators (+, -, \*, /, %, \*\*, //)
+  - Assignment operators (=, +=, -=, \*=, /=, %=, //=, \*\*=)
+  - Comparison operators (==, !=, >, <, >=, <=)
+  - Logical operators (and, or, not)
+- **02_round.py** - Round function and number formatting
+  - Basic rounding with round() function
+  - Rounding to specific decimal places
+  - Practical examples with currency and grades
+  - F-string formatting with rounded values
+- **02_type_conversion.py** - Type conversion (type casting)
+  - int(), float(), str(), bool() conversions
+  - Safe conversion with try-except
+  - Boolean "truthiness" rules
+  - Practical input validation examples
 - **02_practice.py** - Comprehensive practice exercises for Chapter 2
 
 ### chapter_3_strings: String Manipulation & F-Strings
@@ -35,6 +49,14 @@ A comprehensive collection of Python programming exercises and tutorials structu
   - Dictionary and object formatting
   - Date and time formatting
   - Advanced features and debugging techniques
+- **03_string_methods.py** - Common string methods
+  - Case methods (upper, lower, title, capitalize)
+  - Search methods (find, count, in operator)
+  - Trim methods (strip, lstrip, rstrip)
+  - Replace method
+  - Split and join methods
+  - Check methods (isalpha, isdigit, isalnum, etc.)
+  - Practical examples for text processing
 - **03_str_functions.py** - Built-in string methods and functions
 - **03_practice.py** - Practice exercises for Chapter 3
 
@@ -50,6 +72,13 @@ A comprehensive collection of Python programming exercises and tutorials structu
   - Sorting and reversing
   - Slicing and searching
   - Counting and finding elements
+- **04_list_comprehensions.py** - List comprehensions
+  - Basic syntax and examples
+  - List comprehensions with conditions
+  - If-else in list comprehensions
+  - Nested list comprehensions
+  - Practical examples and comparisons
+  - Best practices and when to use
 - **04_tuple.py** - Introduction to Python tuples
   - Immutable sequences
   - Tuple creation and access
@@ -100,6 +129,16 @@ A comprehensive collection of Python programming exercises and tutorials structu
   - Complex conditions with logical operators
   - Ternary operator (conditional expressions)
   - Practical examples (grade calculator, BMI calculator, traffic light system)
+- **06_ternary_operator.py** - Ternary operator (conditional expressions)
+  - Basic ternary syntax
+  - Ternary in f-strings
+  - Ternary with functions
+  - Ternary with lists and data structures
+  - Practical examples (authentication, availability, formatting)
+  - Best practices and when to use
+- **06_if_else.py** - Basic if-else examples
+- **06_nested_conditional.py** - Nested conditional statements
+- **06_practice.py** - Practice exercises for Chapter 6
 
 ### chapter_7_loops: Control Flow - Loops & Iteration
 
@@ -114,6 +153,13 @@ A comprehensive collection of Python programming exercises and tutorials structu
   - Break statement usage
   - Continue statement usage
   - Practical examples
+- **07_enumerate.py** - Enumerate function
+  - Basic enumerate usage
+  - Enumerate with start parameter
+  - Enumerate with different data types
+  - Practical examples (numbered lists, finding indices)
+  - Enumerate with list comprehensions
+  - Advanced examples and best practices
 - **07_practice.py** - Loop practice exercises
   - Number pattern printing
   - Sum calculation problems
@@ -121,11 +167,24 @@ A comprehensive collection of Python programming exercises and tutorials structu
 
 ### chapter_8_functions: Functions & Modular Programming
 
-- **08_functions.py** - Function fundamentals
-  - Function definition and calling
-  - Parameters and arguments
-  - Return values
-  - Scope and lifetime
+- **08_functions_basics.py** - Function fundamentals
+  - Basic function syntax and calling
+  - Functions with parameters and default parameters
+  - Multiple parameters and \*args
+  - Return values and basic concepts
+- **08_functions_examples.py** - Simple practical examples
+  - Mathematical operations (addition, average)
+  - String operations (counting spaces, reversing)
+  - Number analysis (even/odd, positive/negative)
+  - Simple business calculations (discounts)
+  - Basic input/output functions
+  - List operations (finding even numbers, squaring)
+  - Utility functions (math operations, temperature conversion)
+- **08_functions_practice.py** - Practice exercises
+  - 6 progressive exercise sets from basic to practical
+  - TODO sections for hands-on practice
+  - Solutions included for reference
+  - Focus on core function concepts only
 
 ## 🎯 Learning Objectives
 
